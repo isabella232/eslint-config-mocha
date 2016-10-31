@@ -13,7 +13,7 @@ As of this writing, *this config is unused* by any published project.  Except th
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i eslint eslint-config-standard eslint-plugin-import eslint-plugin-promise eslint-plugin-standard eslint-plugin-mocha-only eslint-config-mocha --save-dev
+$ npm i eslint eslint-config-standard eslint-plugin-import eslint-plugin-promise eslint-plugin-standard eslint-plugin-mocha-only @mocha/eslint-config-mocha --save-dev
 ```
 
 ([About ESLint & `peerDependencies`](https://github.com/eslint/eslint/issues/3458))
