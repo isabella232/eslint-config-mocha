@@ -50,5 +50,6 @@ In your `test/.eslintrc.json`, try this:
 
 ## License
 
-Copyright © 2016 [Christopher Hiller](https://mochajs.org)
-Licensed under the ISC license.
+Copyright (c) 2016 [JS Foundation](https://js.foundation) and contributors
+
+Licensed Apache-2.0

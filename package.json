@@ -1,9 +1,9 @@
 {
   "version": "0.0.0",
-  "name": "eslint-config-mocha",
+  "name": "@mocha/eslint-config-mocha",
   "description": "ESLint config for mochajs projects",
   "author": "Christopher Hiller <boneskull@boneskull.com> (https://mochajs.org)",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "main": "index.js",
   "peerDependencies": {
     "eslint-config-standard": "^5.1.0",
